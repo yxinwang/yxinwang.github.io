@@ -9,7 +9,7 @@
 locale                   : "China"
 title                    : "Yongxin Wang (王永欣)"
 title_separator          : "-"
-name                     : &name "Yongxin Wang (王永欣)"
+name                     : &name "Yongxin Wang"
 description              : &description "personal description"
 url                      : https://yxinwang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
