@@ -1,20 +1,21 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Yongxin Wang (王永欣)"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Personal Info
+Personal Info
 ======
 I am currently working toward the PhD degree at the School of Computer Science and Technology, Shandong University, advised by [Prof. Xin-Shun Xu](http://mima.sdu.edu.cn/Members/xinshunxu/index.htm). My research interests include machine learning, hashing, cross-media retrieval, and computer vision.
 
 Click [here](https://yxinwang.github.io/files/CV-yongxinwang.pdf) to view my up-to-date CV.
 
 Education
+=====
 * Ph.D in School of Computer Science and Technology, Shandong University, 2017.09-2021.06 (expected)
 * M.S. in School of Information Science and Engineering, Shandong Normal University, 2014.09-2017.06
 * B.S. in School of Information Science and Engineering, Shandong Normal University, 2010.09-2014.06
@@ -46,5 +47,6 @@ Awards
 * National Encouragement Scholarship, Shandong Normal University, 2012
   
 Services
+=====
 * 
 * 
