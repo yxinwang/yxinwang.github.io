@@ -85,10 +85,13 @@ author:
   bio              : "Ph.D. student in School of Software, Shandong University"
   location         : "Jinan, China"
   employer         :
-  pubmed           :
-  googlescholar    :
   email            : "yxinwang@hotmail.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=0SnREAQAAAAJ"
+  semanticscholar  : "https://www.semanticscholar.org/author/Yongxin-Wang/46394296"
+  DBLP             : "https://dblp.uni-trier.de/pid/95/9248-1.html"
   researchgate     : "https://www.researchgate.net/profile/Yongxin_Wang16"
+  Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57191757024"
   uri              :
   bitbucket        :
   codepen          :
