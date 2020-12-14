@@ -51,4 +51,3 @@ Services
 
 * Reviewer for journals
   * IEEE Transactions on Knowledge and Data Engineering
-* 
