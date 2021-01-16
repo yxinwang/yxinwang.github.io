@@ -28,7 +28,8 @@ Research Interests
 
 Selected Publications
 ======
--. **Yongxin Wang**, Xin Luo, and Xin-Shun Xu, "Label embedding online hashing for cross-modal retrieval," in Proc. ACM Multimedia Conf., 2020, pp. 871-879. [[pdf](https://doi.org/10.1145/3394171.3413971)] [[slide](https://yxinwang.github.io/files/LEMON_MM2020_slide.pdf)] [[presentation](https://yxinwang.github.io/files/LEMON_MM2020_presentation)] [[code](https://github.com/yxinwang/LEMON-MM2020)]
+8. **Yongxin Wang**, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "High-dimensional sparse cross-modal hashing with fine-grained similarity embedding," in Proc. World Wide Web Conf., 2021, accepted.
+7. **Yongxin Wang**, Xin Luo, and Xin-Shun Xu, "Label embedding online hashing for cross-modal retrieval," in Proc. ACM Multimedia Conf., 2020, pp. 871-879. [[pdf](https://doi.org/10.1145/3394171.3413971)] [[slide](https://yxinwang.github.io/files/LEMON_MM2020_slide.pdf)] [[presentation](https://yxinwang.github.io/files/LEMON_MM2020_presentation)] [[code](https://github.com/yxinwang/LEMON-MM2020)]
 6. Yu-Wei Zhan, Xin Luo, **Yongxin Wang**, and Xin-Shun Xu, "Supervised hierarchical deep hashing for cross-modal retrieval," in Proc. ACM Multimedia Conf., 2020, pp. 3386-3394. [[pdf](https://doi.org/10.1145/3394171.3413962)] [[code](https://github.com/SDU-MIMA/SHDCH)]
 5. **Yongxin Wang**, Xin Luo, Liqiang Nie, Jingkuan Song, Wei Zhang, and Xin-Shun Xu, "BATCH: A scalable asymmetric discrete cross-modal hashing," IEEE Trans. Knowl. Data Eng., 2020. [[pdf](https://doi.org/10.1109/TKDE.2020.2974825)] [[code](https://github.com/yxinwang/BATCH-TKDE2020)]
 4. Zhen-Duo Chen, **Yongxin Wang**, Hui-Qiong Li, Xin Luo, Liqiang Nie, and Xin-Shun Xu, "A two-step cross-modal hashing by exploiting label correlations and preserving similarity in both steps," in Proc. ACM Multimedia Conf., 2019, pp. 1694–1702. [[pdf](https://doi.org/10.1145/3343031.3350862)]
