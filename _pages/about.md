@@ -42,7 +42,7 @@ Selected Publications
 
 Awards
 ======
-* Dean Scholarship in School of Science and Technology, Shandong University, 2020
+* Dean Scholarship in School of Computer Science and Technology, Shandong University, 2020
 * First-Class Academic Scholarship, Shandong University, 2020
 * Outstanding Graduate of Shandong Province, 2017
 * Outstanding Graduates of Shandong Normal University, 2017
