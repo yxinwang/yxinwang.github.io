@@ -23,8 +23,8 @@ Education
 
 Research Interests
 ======
-1. Information Retrieval
-2. Machine Learning
+1. Machine Learning
+2. Multimedia Analysis
 3. Computer Vision
 
 Selected Publications
