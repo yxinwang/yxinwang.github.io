@@ -12,7 +12,7 @@ Personal Info
 ======
 I am currently working toward the Ph.D. degree at the School of Computer Science and Technology, Shandong University, advised by [Prof. Xin-Shun Xu](http://mima.sdu.edu.cn/Members/xinshunxu/index.htm). My research interests include machine learning, hashing, cross-media retrieval, and computer vision.
 
-Click [here](https://yxinwang.github.io/files/CV-yongxinwang.pdf) to view my up-to-date CV.
+[//]: # Click [here](https://yxinwang.github.io/files/CV-yongxinwang.pdf) to view my up-to-date CV.
 Click [here](https://cn.overleaf.com/download/project/6063c76f299eb3d82022d197/build/17885c87755-c58e879f7c130a75/output/output.pdf) to view my up-to-date CV.
 
 Education
