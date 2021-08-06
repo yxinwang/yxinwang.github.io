@@ -16,7 +16,7 @@ Click [here](https://yxinwang.github.io/files/CV-yongxinwang.pdf) to view my up-
 
 Education
 =====
-* Ph.D. in School of Computer Science and Technology, Shandong University, 2017.09-2021.06 (expected)
+* Ph.D. in School of Computer Science and Technology, Shandong University, 2017.09-2021.06
 * M.S. in School of Information Science and Engineering, Shandong Normal University, 2014.09-2017.06
 * B.S. in School of Information Science and Engineering, Shandong Normal University, 2010.09-2014.06
 
@@ -42,7 +42,8 @@ Selected Publications
 
 Awards
 ======
-* Dean Scholarship in School of Computer Science and Technology, Shandong University, 2020
+* Academic Star of School of Software, Shandong University, 2021
+* Dean Scholarship in School of Computer Science, Shandong University, 2020
 * First-Class Academic Scholarship, Shandong University, 2020
 * Outstanding Graduate of Shandong Province, 2017
 * Outstanding Graduates of Shandong Normal University, 2017
@@ -57,4 +58,9 @@ Services
 
 * Reviewer for journals
   * IEEE Transactions on Knowledge and Data Engineering
+  * IEEE Transactions on Circuits and Systems for Video Technology
   * IEEE Transactions on Multimedia
+  * 
+* Reviewer for conferences
+  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021\;-\;PC Member
+  * 
