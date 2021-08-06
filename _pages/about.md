@@ -62,5 +62,5 @@ Services
   * IEEE Transactions on Multimedia
   * 
 * Reviewer for conferences
-  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021\;-\;PC Member
+  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021 - PC Member
   * 
