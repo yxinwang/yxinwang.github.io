@@ -41,6 +41,16 @@ Selected Publications
 11. Xin Luo, Xiao-Ya Yin, Liqiang Nie, Xuemeng Song, **Yongxin Wang**, and Xin-Shun Xu, "SDMCH: Supervised discrete manifold-embedded cross-modal hashing," in Proc. Int. Joint Conf. Artif. Intell. (IJCAI), 2018, pp. 2518–2524. [[pdf](https://doi.org/10.24963/ijcai.2018/349)]
 12. **Yongxin Wang**, Huaxiang Zhang, and Feng Yang, "A weighted sparse neighbourhood-preserving projections for face recognition," IETE Journal of Research, vol. 63, no. 3, pp. 358-367, 2017.
 
+Services
+=====
+
+* Reviewer for journals
+  * IEEE Transactions on Multimedia
+  * IEEE Transactions on Knowledge and Data Engineering
+  * IEEE Transactions on Circuits and Systems for Video Technology
+* Reviewer for conferences
+  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021 - PC Member
+
 Awards
 ======
 * Academic Star of School of Software, Shandong University, 2021
@@ -53,13 +63,3 @@ Awards
 * First-Class Academic Scholarship, Shandong Normal University, 2015
 * Outstanding Academic Papers of 2014, Shandong Computer Society, 2014
 * National Encouragement Scholarship, Shandong Normal University, 2012
-  
-Services
-=====
-
-* Reviewer for journals
-  * IEEE Transactions on Multimedia
-  * IEEE Transactions on Knowledge and Data Engineering
-  * IEEE Transactions on Circuits and Systems for Video Technology
-* Reviewer for conferences
-  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021 - PC Member
