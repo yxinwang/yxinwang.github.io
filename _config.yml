@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Yongxin Wang"
   avatar           : "yongxinwang.jpg"
-  bio              : "Ph.D. student in School of Software, Shandong University"
+  bio              : "Hi, welcome to my webpage!"
+  #bio              "Associate Professor in School of Computer Science and Techonology, Shandong Jianzhu University"
   location         : "Jinan, China"
   employer         :
   email            : "yxinwang@hotmail.com"
