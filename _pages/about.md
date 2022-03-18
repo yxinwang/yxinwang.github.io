@@ -56,6 +56,7 @@ Services
 
 * Reviewer for journals
   * IEEE Transactions on Multimedia
+  * IEEE Transactions on Image Processing
   * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Circuits and Systems for Video Technology
 * Reviewer for conferences
