@@ -10,7 +10,7 @@ redirect_from:
 
 Personal Info
 ======
-I'm Yongxin Wang (王永欣). I am currently an associate professor with the School of Computer Science and Techonology, Shandong Jianzhu University. I received the Ph.D. degree from School of Computer Science and Technology, Shandong University, advised by [Prof. Xin-Shun Xu](http://mima.sdu.edu.cn/Members/xinshunxu/index.htm). My research interests include machine learning, multimedia analysis, information retrieval, and computer vision.
+I'm Yongxin Wang (王永欣). I am currently an associate professor with the School of Computer Science and Technology, Shandong Jianzhu University. I received the Ph.D. degree from School of Computer Science and Technology, Shandong University, advised by [Prof. Xin-Shun Xu](http://mima.sdu.edu.cn/Members/xinshunxu/index.htm). My research interests include machine learning, multimedia analysis, information retrieval, and computer vision.
 
 [^_^]: # Click [here](https://yxinwang.github.io/files/CV-yongxinwang.pdf) to view my up-to-date CV.
 
