@@ -59,7 +59,7 @@ Services
   * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Circuits and Systems for Video Technology
 * Reviewer for conferences
-  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021 - PC Member
+  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021/2022 - PC Member
 
 Awards
 ======
