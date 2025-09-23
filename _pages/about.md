@@ -10,7 +10,7 @@ redirect_from:
 
 Personal Info
 ======
-I'm Yongxin Wang (王永欣). I am currently an associate professor with the School of Computer Science and Technology, Shandong Jianzhu University. I received the Ph.D. degree from School of Computer Science and Technology, Shandong University, advised by [Prof. Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). My research interests include hashing, multimedia analysis, information retrieval, machine learning, and computer vision.
+I'm Yongxin Wang (王永欣). I am currently an associate professor with the School of Computer and Artificial Intelligence, Shandong Jianzhu University. I received the Ph.D. degree from School of Computer Science and Technology, Shandong University, advised by [Prof. Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm). My research interests include hashing, multimedia analysis, information retrieval, machine learning, and computer vision.
 
 [^_^]: # Click [here](https://yxinwang.github.io/files/CV-yongxinwang.pdf) to view my up-to-date CV.
 
@@ -32,12 +32,19 @@ Professional Experience
 
 Selected Publications
 ======
-2. Ting Fu, Yu-Wei Zhan, Chong-Yu Zhang, Xin Luo, Zhen-Duo Chen, **Yongxin Wang**, Xun Yang, and Xin-Shun Xu, "FedCAFE: Federated cross-modal hashing with adaptive feature enhancement," Proc. ACM Multimedia Conf. (ACM MM), 2024, pp. xx-xx. [[pdf](https://doi.org/...)] [[code](https://github.com/...)]
-2. Yu-Wei Zhan, Xin Luo, Zhen-Duo Chen, **Yongxin Wang**, Yinwei Wei, and Xin-Shun Xu, "POLISH: Adaptive online cross-modal hashing for class incremental data," Proc. Web Conf. (WWW), 2024, pp. 4470-4478. [[pdf]([https://doi.org/10.1145/3581783.3612119](https://doi.org/10.1145/3589334.3645716))]
-1. **Yongxin Wang**, Feng Dong, Kuikui Wang, Xiushan Nie, and Zhen-Duo Chen, "Weighted cross-modal hashing with label enhancement," Knowledge-Based Systems, vol. 293, pp. 111657, 2024. [[pdf]([https://doi.org/10.1109/TCSVT.2023.3340102](https://doi.org/10.1016/j.knosys.2024.111657))]
+1. **Yongxin Wang**, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "BITS: Bit-extendable incremental hashing in open environments," IEEE Trans. on Image Processing, 2025. [[pdf](https://doi.org/10.1109/TIP.2025.3613924)] [[code](https://github.com/yxinwang/BITS)]
+2. Li-Jun Zhao, Zhen-Duo Chen, **Yongxin Wang**, Xin Luo, and Xin-Shun Xu, "Evolving and regularizing meta-environment learner for fine-grained few-shot class-incremental learning," in Proc. Neural Inf. Process. Syst. (NeurIPS), 2025.
+2. Li-Jun Zhao, Zhen-Duo Chen, **Yongxin Wang**, Xin Luo, and Xin-Shun Xu, "Attraction diminishing and distributing for few-shot class-incremental learning," in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), 2025, pp. 25657-25666. [[pdf](https://doi.org/10.1109/CVPR52734.2025.02389)]
+2. Enyan Li, Lu Yang, Kuikui Wang, **Yongxin Wang**, Yilong Yin, "Vein pattern based partial finger vein alignment and recognition," IEEE Trans. on Biometrics, Behavior, and Identity Science, 2025. [[pdf](https://doi.org/10.1109/TBIOM.2025.3592306)]
+2. Junjie Peng, Chong-Yu Zhang, Na Wang, Yu-Wei Zhan, Zhen-Duo Chen, **Yongxin Wang**, and Xin-Shun Xu, "OH-CMH: Towards cross-modal hashing for streaming data with hierarchical labels and label incremental scenario," Knowledge-Based Systems, vol. 324, pp. 113796, 2025. [[pdf](https://doi.org/10.1016/j.knosys.2025.113796)] [[code](https://github.com/pjunjie/OH-CMH)]
+1. **Yongxin Wang**, Feng Dong, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "Domain-aware semantic alignment hashing for large-scale zero-shot image retrieval," ACM Trans. on Multimedia Computing Communications and Applications, vol. 21, no, 6, pp. 171:1-171:20, 2025. [[pdf](https://doi.org/10.1145/3734871)] [[code](https://github.com/yxinwang/DSAZH)]
+2. Na Wang, Yu-Wei Zhan, Zhen-Duo Chen, **Yongxin Wang**, Xin Luo, and Xin-Shun Xu, "Tag-aware weakly-supervised online hashing with enhanced joint representation," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), 2025, pp. 1-5. [[pdf](https://doi.org/10.1109/ICASSP49660.2025.10888878)]
+2. Ting Fu, Yu-Wei Zhan, Chong-Yu Zhang, Xin Luo, Zhen-Duo Chen, **Yongxin Wang**, Xun Yang, and Xin-Shun Xu, "FedCAFE: Federated cross-modal hashing with adaptive feature enhancement," in Proc. ACM Multimedia Conf. (ACM MM), 2024, pp. 9670-9679. [[pdf](https://doi.org/10.1145/3664647.3681319)] [[code](https://github.com/FtAhub/FedCAFE)]
+2. Yu-Wei Zhan, Xin Luo, Zhen-Duo Chen, **Yongxin Wang**, Yinwei Wei, and Xin-Shun Xu, "POLISH: Adaptive online cross-modal hashing for class incremental data," in Proc. Web Conf. (WWW), 2024, pp. 4470-4478. [[pdf](https://doi.org/10.1145/3589334.3645716)]
+1. **Yongxin Wang**, Feng Dong, Kuikui Wang, Xiushan Nie, and Zhen-Duo Chen, "Weighted cross-modal hashing with label enhancement," Knowledge-Based Systems, vol. 293, pp. 111657, 2024. [[pdf](https://doi.org/10.1016/j.knosys.2024.111657)]
 2. Zi-Chao Zhang, Zhen-Duo Chen, **Yongxin Wang**, Xin Luo, and Xin-Shun Xu, "A vision transformer for fine-grained classification by reducing noise and enhancing discriminative information," Pattern Recognition, vol. 145, pp. 109979, 2024. [[pdf](https://doi.org/10.1016/j.patcog.2023.109979)] [[code](https://github.com/Hector0426/fine-grained-image-classification-with-vit)]
 1. **Yongxin Wang**, Yu-Wei Zhan, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "Multiple information embedded hashing for large-scale cross-modal retrieval," IEEE Trans. on Circuits and Systems for Video Technology, vol. 34, no, 6, pp. 5118-5131, 2024. [[pdf](https://doi.org/10.1109/TCSVT.2023.3340102)] [[code](https://github.com/yxinwang/MIEH)]
-2. Chong-Yu Zhang, Xin Luo, Yu-Wei Zhan, Peng-Fei Zhang, Zhen-Duo Chen, **Yongxin Wang**, Xun Yang, and Xin-Shun Xu, "Self-distillation dual-memory online hashing with hash centers for streaming data retrieval," Proc. ACM Multimedia Conf. (ACM MM), 2023, pp. 6340-6349. [[pdf](https://doi.org/10.1145/3581783.3612119)] [[code](https://github.com/ZCyueternal/SDOH-HC)]
+2. Chong-Yu Zhang, Xin Luo, Yu-Wei Zhan, Peng-Fei Zhang, Zhen-Duo Chen, **Yongxin Wang**, Xun Yang, and Xin-Shun Xu, "Self-distillation dual-memory online hashing with hash centers for streaming data retrieval," in Proc. ACM Multimedia Conf. (ACM MM), 2023, pp. 6340-6349. [[pdf](https://doi.org/10.1145/3581783.3612119)] [[code](https://github.com/ZCyueternal/SDOH-HC)]
 2. Jiale Liu, Yu-Wei Zhan, Xin Luo, Zhen-Duo Chen, **Yongxin Wang**, and Xin-Shun Xu, "Prototype-based layered federated cross-modal hashing," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), 2023, pp. 1-2. [[pdf](https://doi.org/10.1109/ICASSP49357.2023.10095814)].
 1. **Yongxin Wang**, Jie-Ru Tian, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "Label enhancement discrete cross-modal hashing method (In Chinese)," Journal of Software, vol. 34, no. 7, pp. 3438-3450, 2023. [[pdf](http://dx.doi.org/10.13328/j.cnki.jos.006536)]
 1. **Yongxin Wang**, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "A high-dimensional sparse hashing framework for cross-modal retrieval," IEEE Trans. on Circuits and Systems for Video Technology, vol. 32, no. 12, pp. 8822-8836, 2022. [[pdf](https://doi.org/10.1109/TCSVT.2022.3195874)] [[code](https://github.com/yxinwang/HSCH-TCSVT)]
@@ -70,9 +77,12 @@ Services
   * IEEE Transactions on Image Processing
   * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Circuits and Systems for Video Technology
+  * IEEE Transactions on Cybernetics
+  * Pattern Recognition
+  * Information Science
 * Reviewer for conferences
-  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021/2022 - PC Member
-  * Proc. IEEE Int. Conf. Multimedia and Expo (ICME) 2023 - PC Member
+  * Proc. ACM Multimedia Conf. (MM) 2024/2025
+  * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021/2022
 
 Awards
 ======
