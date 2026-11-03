@@ -32,7 +32,7 @@ Professional Experience
 
 Selected Publications
 ======
-2. Zhen-Duo Chen, Li-Jun Zhao, **Yongxin Wang**, Yu-Wei Zhan, Xiao-Qian Liu, Xin Luo, and Xin-Shun Xu, "Shared latent characteristic anchored hash codes generation for efficient fine-grained image retrieval, " IEEE Trans. on Pattern Analysis and Machine Intelligence, vol. 48, no. 11, pp. 15589-15604. [[pdf](https://doi.org/10.1109/TPAMI.2026.3723930)]
+2. Zhen-Duo Chen, Li-Jun Zhao, **Yongxin Wang**, Yu-Wei Zhan, Xiao-Qian Liu, Xin Luo, and Xin-Shun Xu, "Shared latent characteristic anchored hash codes generation for efficient fine-grained image retrieval, " IEEE Trans. on Pattern Analysis and Machine Intelligence, vol. 48, no. 11, pp. 15589-15604, 2026. [[pdf](https://doi.org/10.1109/TPAMI.2026.3723930)]
 1. **Yongxin Wang**, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu, "BITS: Bit-extendable incremental hashing in open environments," IEEE Trans. on Image Processing, vol. 34, pp. 6550-6563, 2025. [[pdf](https://doi.org/10.1109/TIP.2025.3613924)] [[code](https://github.com/yxinwang/BITS)]
 2. Li-Jun Zhao, Zhen-Duo Chen, **Yongxin Wang**, Xin Luo, and Xin-Shun Xu, "Evolving and regularizing meta-environment learner for fine-grained few-shot class-incremental learning," in Proc. Neural Inf. Process. Syst. (NeurIPS), 2025, pp. 1-12. [[pdf](https://openreview.net/pdf?id=AU2eaY2QEu)]
 2. Enyan Li, Lu Yang, Kuikui Wang, **Yongxin Wang**, Yilong Yin, "Vein pattern based partial finger vein alignment and recognition," IEEE Trans. on Biometrics, Behavior, and Identity Science, vol. 7, no. 4, pp. 837-847, 2025. [[pdf](https://doi.org/10.1109/TBIOM.2025.3592306)]
