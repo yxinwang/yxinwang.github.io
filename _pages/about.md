@@ -83,7 +83,7 @@ Services
   * Pattern Recognition
   * Information Science
 * Reviewer for conferences
-  * Proc. AAAI Conf. Artif. Intell. (AAAI) 2026
+  * Proc. AAAI Conf. Artif. Intell. (AAAI) 2027
   * Proc. ACM Multimedia Conf. (MM) 2024/2025
   * Proc. ACM Int. Conf. Inf. Knowl. Manag. (CIKM) 2021/2022
 
